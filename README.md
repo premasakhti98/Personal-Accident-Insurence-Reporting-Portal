@@ -1,4 +1,4 @@
-# Personal-Accident-Insurence-Reporting-Portal
+# PA-Insurence-Reporting-Portal
 Team Members
 vigneshwaran.s
 prema.s
