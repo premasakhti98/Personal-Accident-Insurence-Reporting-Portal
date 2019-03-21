@@ -13,5 +13,10 @@ Simple access and user friendly.
 The accident report form completed online also contains personal information  about persons injured in workplace accidents. 
 The Reporting form consist of injured person’s name,  date and time of incident, and location of the accident, detail description of accident.
 The accident reporting portal and database is hosted internally on our premises in a secure server environment.
+Module-Split-up:
+1.Form design and database connectivity
+Registration form-vigneshwaran
+Login page-shree ram kumar
+Reporting portal-prema
 Remaining Work:
 we want to make a email notification to the client that contains the informations such as policy no, amount to cliam, etc
